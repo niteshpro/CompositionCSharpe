@@ -1,0 +1,15 @@
+C:\Users\nitesh\Desktop\C#\compositionConcept\compositionConcept\obj\Debug\net6.0\compositionConcept.csproj.AssemblyReference.cache
+C:\Users\nitesh\Desktop\C#\compositionConcept\compositionConcept\obj\Debug\net6.0\compositionConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitesh\Desktop\C#\compositionConcept\compositionConcept\obj\Debug\net6.0\compositionConcept.AssemblyInfoInputs.cache
+C:\Users\nitesh\Desktop\C#\compositionConcept\compositionConcept\obj\Debug\net6.0\compositionConcept.AssemblyInfo.cs
+C:\Users\nitesh\Desktop\C#\compositionConcept\compositionConcept\obj\Debug\net6.0\compositionConcept.csproj.CoreCompileInputs.cache
+C:\Users\nitesh\Desktop\C#\compositionConcept\compositionConcept\bin\Debug\net6.0\compositionConcept.exe
+C:\Users\nitesh\Desktop\C#\compositionConcept\compositionConcept\bin\Debug\net6.0\compositionConcept.deps.json
+C:\Users\nitesh\Desktop\C#\compositionConcept\compositionConcept\bin\Debug\net6.0\compositionConcept.runtimeconfig.json
+C:\Users\nitesh\Desktop\C#\compositionConcept\compositionConcept\bin\Debug\net6.0\compositionConcept.dll
+C:\Users\nitesh\Desktop\C#\compositionConcept\compositionConcept\bin\Debug\net6.0\compositionConcept.pdb
+C:\Users\nitesh\Desktop\C#\compositionConcept\compositionConcept\obj\Debug\net6.0\compositionConcept.dll
+C:\Users\nitesh\Desktop\C#\compositionConcept\compositionConcept\obj\Debug\net6.0\refint\compositionConcept.dll
+C:\Users\nitesh\Desktop\C#\compositionConcept\compositionConcept\obj\Debug\net6.0\compositionConcept.pdb
+C:\Users\nitesh\Desktop\C#\compositionConcept\compositionConcept\obj\Debug\net6.0\compositionConcept.genruntimeconfig.cache
+C:\Users\nitesh\Desktop\C#\compositionConcept\compositionConcept\obj\Debug\net6.0\ref\compositionConcept.dll
